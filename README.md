@@ -1,10 +1,6 @@
-# Metro Group Rewards App
-Mobile App for iOS and Android devices built with the React Native framework
-
-<p>• A fullstack project that allows users to search for vegan and vegetarian friendly resources by location.</p>
-<p>• Search results include restaurants, grocery stores, and farmers markets.</p>
-<p>• Yelp Fusion API and Google Maps is utilized to gather and display business data.</p>
-<p>• Users can login with Auth0 and save their favorite businesses which can be viewed in their profile.</p>
+# Metro Inc. Rewards App
+Mobile App for iOS and Android devices built with the React Native framework to allow customers of Metro Inc to earn reward points
+for recycling scrap metals, recieve coupons on metals every month, and stay connected to their local scrap metal recycler. The app is currently still in development phase and I have provided code snippets of my own contributions to the project which does not constitute the entire codebase.
 
 ## Technologies Used:
 
