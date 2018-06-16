@@ -15,7 +15,7 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 ## Views
 <br><br>
 <p align="center">
-    <img src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/veganeats.PNG" width="800">
+    <img src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="400">
 </p> 
 <p align="center">
     Landing view with search field.
