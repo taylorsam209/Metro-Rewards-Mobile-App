@@ -14,18 +14,17 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 
 ## Views
 <br><br>
-<p align="center">
-    <img src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="400">
+<p align="left">
+    <img src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300">
 </p> 
-<p align="center">
+<p align="left">
     Landing view with search field.
 </p> 
 
-<br><br>
-<p align="center">
-    <img src="https://github.com/taylorsam209/personal-project/blob/master/src/assets/Listing.PNG" width="800">
+<p align="right">
+    <img src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300">
 </p> 
-<p align="center">
+<p align="right">
     Search results view of restaurant listings by location.
 </p> 
 
