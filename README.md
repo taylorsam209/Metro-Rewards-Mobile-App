@@ -14,7 +14,8 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 <li>RESTful APIs</li>
 
 ## Video Walkthrough
-![](https://drive.google.com/file/d/1ySAfDcV2m-vCGozlnbfUsKtN5hd1BNJ_/view?usp=sharing) 
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=4GGot26cL1w)
+
 
 
 ## Screens
@@ -51,9 +52,3 @@ Add Profile Picture     |  Camera Screen
 Confirm Password     |  Change Password
 :-------------------------:|:-------------------------:
 ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/confirmpw.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/changepw.png)
-
-
-
-
-
-
