@@ -19,6 +19,9 @@ Login            |  Register Form
 :-------------------------:|:-------------------------:
 ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png)
 
+Login            |  Register Form
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png)
 
 
 
