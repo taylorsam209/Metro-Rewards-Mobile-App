@@ -12,14 +12,17 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 <li>PostgreSQL</li>
 <li>RESTful APIs</li>
 
-## Views
+## Screens
 <br><br>
 
+<p align="left">Login </p> 
+<p align="right">Registration </p>
+<br><br>
 <p>
     <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="20">
     <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300">
 </p>
-<p align="center">###Detail view of selected restaurant. </p> 
+
 
 
 <br><br>
