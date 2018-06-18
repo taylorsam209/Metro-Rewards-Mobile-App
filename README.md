@@ -5,6 +5,7 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 ## Technologies Used:
 
 <li>React Native</li>
+<li>React Native NPM Libraries</li>
 <li>Redux</li>
 <li>NodeJS</li>
 <li>Express</li>
