@@ -13,6 +13,10 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 <li>PostgreSQL</li>
 <li>RESTful APIs</li>
 
+## Video Walkthrough
+![](https://drive.google.com/file/d/1ySAfDcV2m-vCGozlnbfUsKtN5hd1BNJ_/view?usp=sharing) 
+
+
 ## Screens
 <br><br>
 
