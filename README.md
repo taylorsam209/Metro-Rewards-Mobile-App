@@ -15,37 +15,14 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 ## Screens
 <br><br>
 
-<p align="left" hspace="20">Login </p> 
-<p align="right" hspace="20">Registration </p>
-
-<p>
-    <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="50">
-    <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300" hspace="50">
-</p>
-
-<br/>
-
-<p>
-    <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="50">
-    <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300" hspace="50">
-</p>
-
-<br/>
-
-<p>
-    <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="50">
-    <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300" hspace="50">
-</p>
-
-<br/>
-
-<p>
-    <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="50">
-    <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300" hspace="50">
-</p>
+Login            |  Register Form
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png)
 
 
 
-<br><br>
+
+
+
 
 
