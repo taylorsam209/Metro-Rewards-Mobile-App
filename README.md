@@ -17,12 +17,35 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 
 Login            |  Register Form
 :-------------------------:|:-------------------------:
-![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png)
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png) 
 
-Login            |  Register Form
+About Screen     |  Metal Selection
 :-------------------------:|:-------------------------:
-![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png)
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/about.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/metalselection.png)
 
+Home Tab           |  Home Tab (continued)
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/home.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/home2.png)
+
+Coupons Tab        |  Coupon QR Code
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/coupon.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/qr.png)
+
+Activity Tab      |  Activity Details
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/activity.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/activitydetails.png)
+
+Settings Tab      |  Settings (Continue)
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/settings.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/settings2.png)
+
+Add Profile Picture     |  Camera Screen
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/addphoto.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/camera.png)
+
+Confirm Password     |  Change Password
+:-------------------------:|:-------------------------:
+![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/confirmpw.png)  |  ![](https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/changepw.png)
 
 
 
