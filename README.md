@@ -17,12 +17,12 @@ for recycling scrap metals, recieve coupons on metals every month, and stay conn
 
 <p>
     <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/login.png" width="300" hspace="20">
-    <img align="left" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300">
-    </p>
-
 <p align="left">
     Landing view with search field.
 </p> 
+    <img align="right" src="https://github.com/taylorsam209/Metro-Rewards-Mobile-App/blob/master/assets/register.png" width="300">
+    </p>
+
 
 
 <br><br>
